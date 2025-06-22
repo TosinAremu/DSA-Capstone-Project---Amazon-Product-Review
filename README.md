@@ -1,1 +1,1 @@
-# DSA Capstone Project - Amazon-Product-Review
+# DSA Capstone Project - Amazon Product Review
