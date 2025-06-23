@@ -11,3 +11,20 @@ In the rapidly expanding e-commerce landscape, providing insightful product and 
 3. To segment products based on customer feedback and ratings to prioritize enhancement efforts and marketing focus.
 4. To generate actionable insights that can inform product development, pricing strategies, and customer engagement initiatives.
 5. To develop a dashboard and reports that effectively communicate key findings to stakeholders, supporting strategic decision-making in the e-commerce domain.
+
+#### Dataset Overview
+The dataset includes structured product and unstructured customer review data for six distinct products across multiple categories, with attributes such as:
+- Product Information: ID, name, category, pricing, discount.
+- Review Data: Ratings, review count, individual reviews (title + content).
+- Customer Metadata: User ID, name.
+
+#### Data Cleaning & Preprocessing Highlights
+- Standardized Column columns: Unified naming conventions and trimmed product category.
+- Calculated Column: Calculated derived field like, average discount percentage, number of products, review per category, average actual and discounted prices etc.
+- Price columns: Converted to numeric and calculated derived fields like revenue = actual_price x rating count.
+
+
+
+
+ 
+
