@@ -20,7 +20,7 @@ The dataset includes structured product and unstructured customer review data fo
 - Price columns: Converted to numeric and calculated derived fields like revenue = actual_price x rating count.
 
 #### Tools & Techniques Used:
-Excel Sheet - Initial data exploration and clean up
+Excel Sheet - Initial data exploration, clean up and structuring.
 
 
 
