@@ -23,6 +23,8 @@ The dataset includes structured product and unstructured customer review data fo
 - Calculated Column: Calculated derived field like, average discount percentage, number of products, review per category, average actual and discounted prices etc.
 - Price columns: Converted to numeric and calculated derived fields like revenue = actual_price x rating count.
 
+#### Tools & Techniques Used:
+Excel Sheet - Initial data exploration and clean up
 
 
 
