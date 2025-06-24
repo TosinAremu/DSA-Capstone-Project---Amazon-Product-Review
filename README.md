@@ -34,6 +34,8 @@ The functions used for the analysis are:
 8. IF
 9. IFERROR
 
+![Excel Dashboard](https://github.com/user-attachments/assets/f1d218ac-9a5c-403d-affd-7abf47f902a1)
 
- 
+
+
 
