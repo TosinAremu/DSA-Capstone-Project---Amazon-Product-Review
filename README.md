@@ -71,7 +71,22 @@ This bar chart breaks down revenue per category.
 - Electronics dominates the revenue with #98 billion.
 - Disproportionate revenue gap between electronics and other categories suggests a high dependency on this category.
 
+#### Top 10 Products by Revenue
+1. Smartphones & Basic Mobiles - Massive lead, core of Amazon Electronics sales.
+2. Televisions - Strong performer in the consumer electronis segments.
+3. SmartwWatches - High sales volume wearble tech.
+4. Headphones - Suggests strong demand for personal audio.
+5. Small Kitch Appliances - Leading Home7Kitchen sub category.
+6. Cables & Accessories - Utility items like chargers, USBs, HDMI.
+7. Memory Cards - Likely declining as cloud storage grows.
+8. Mobile Accessories - Phone cases, stands, etc.
+9. Accessories - General or wearable accessories.
+10. Cleaning - Home appliances segment.
 
+#### Insights:
+- The top 4 products are all electronics-related, underscoring Amazon's dominace in the tech market.
+- Products like "vacuum cleaners" and "kitchen appliances" show potential in home related segments.
+- There is a drop in revenue after top 5 products.
 
 
 
