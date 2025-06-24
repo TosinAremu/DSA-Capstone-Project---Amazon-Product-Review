@@ -34,6 +34,6 @@ The functions used for the analysis are:
 8. IF
 9. IFERROR
 
-Excel Dashboard.jpg
+Excel Dashboard(https://github.com/TosinAremu/DSA-Capstone-Project---Amazon-Product-Review/blob/main/Excel%20Dashboard.jpg)
  
 
