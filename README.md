@@ -51,9 +51,25 @@ This dashboard provides a summarized view of sales performance and customer revi
 |Revenue|4,472,000|This is the revenue generated from the selected category "Car&Motorbike"
 |Product Categories|9|There are a total of 9 distinct product categories in the dataset.
 |Products|71|There are 71 products in the selected category.
-|Average Rating|292.75|This is the average number of ratings/reviews received
+|Average Rating|292.75|This is the average number of ratings/reviews received.
 
+#### Revenue by Categories (Bar Graph)
+This bar chart breaks down revenue per category.
+|Category|Revenue (Million)|Observations
+|--------|-----------------|-----------|
+|Electronics|98,020.81|Highest revenue contributor by a wide margin.
+|Computers & Accessories|12,614.81|2nd Highest contributors. Likely includes laptops, peripherals.
+|Health & Personal Care|10,459.72|High value from daily essentials or wellness electronics.
+|Home & Kitchen|6.96|Surprisingly low despite being a common shopping category.
+|Car & Motorbike|4.47|Contributing very little.
+|Home Improvements|6.16|Modest contribution.
+|Musical Instruments|151.12|Niche category with above average performance.
+|Office Products|60.78|Low revenue generation.
+|Toys & Games|2.38|One of the least perfoming categories.
 
+#### Insights:
+- Electronics dominates the revenue with #98 billion.
+- Disproportionate revenue gap between electronics and other categories suggests a high dependency on this category.
 
 
 
