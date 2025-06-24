@@ -34,6 +34,6 @@ The functions used for the analysis are:
 8. IF
 9. IFERROR
 
-Excel Dashboard https://github.com/TosinAremu/LITA-Captstone-Project/blob/main/Excel%20Sales%20Dash.jpg
+
  
 
