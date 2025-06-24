@@ -46,8 +46,8 @@ This dashboard provides a summarized view of sales performance and customer revi
 
 #### Key Metrics
 
-|Metric|Value|Insight
-|------|-----|------|
+|Metric|Value (#)|Insight
+|------|---------|------|
 |Revenue|4,472,000|This is the revenue generated from the selected category "Car&Motorbike"
 |Product Categories|9|There are a total of 9 distinct product categories in the dataset.
 |Products|71|There are 71 products in the selected category.
@@ -55,7 +55,7 @@ This dashboard provides a summarized view of sales performance and customer revi
 
 #### Revenue by Categories (Bar Graph)
 This bar chart breaks down revenue per category.
-|Category|Revenue (Million)|Observations
+|Category|Revenue #(Million)|Observations
 |--------|-----------------|-----------|
 |Electronics|98,020.81|Highest revenue contributor by a wide margin.
 |Computers & Accessories|12,614.81|2nd Highest contributors. Likely includes laptops, peripherals.
