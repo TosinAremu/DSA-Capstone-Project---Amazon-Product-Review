@@ -50,7 +50,7 @@ This dashboard provides a summarized view of sales performance and customer revi
 |------|-----|------|
 |Revenue|4,472,000|This is the revenue generated from the selected category "Car&Motorbike"
 |Product Categories|9|There are a total of 9 distinct product categories in the dataset.
-|Products|153.03|71|There are 71 products in the selected category.
+|Products|71|There are 71 products in the selected category.
 |Average Rating|292.75|This is the average number of ratings/reviews received
 
 
