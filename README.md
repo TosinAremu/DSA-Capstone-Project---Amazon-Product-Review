@@ -22,8 +22,16 @@ The dataset includes structured product and unstructured customer review data fo
 ### Tools & Techniques Used:
 Excel Sheet - Initial data exploration, clean up and structuring. [Download Here](https://mpel-my.sharepoint.com/:x:/g/personal/tosin_mpel_co_uk/ETybyULWLtRBiA6ubTGXj-YBNup_W7WNP1UsL7IxeMplsA?e=jaXbmS)
 
-
-
-
+### Analysis & Insights
+The functions used for the analysis are:
+1. Unique
+2. AverageIF
+3. CountIFS
+4. SUMIFS
+5. MAXIFS
+6. FREQUENCY
+7. RANK
+8. IF
+9. IFERROR
  
 
