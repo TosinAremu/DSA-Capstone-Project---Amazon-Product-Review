@@ -24,9 +24,9 @@ Excel Sheet - Initial data exploration, clean up and structuring. [Download Here
 
 ### Analysis & Insights
 The functions used for the analysis are:
-1. Unique
-2. AverageIF
-3. CountIFS
+1. UNIQUE
+2. AVERAGEIF
+3. COUNTIFS
 4. SUMIFS
 5. MAXIFS
 6. FREQUENCY
