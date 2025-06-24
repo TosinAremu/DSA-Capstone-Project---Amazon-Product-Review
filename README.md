@@ -36,6 +36,17 @@ The functions used for the analysis are:
 
 ![Excel Dashboard](https://github.com/user-attachments/assets/f1d218ac-9a5c-403d-affd-7abf47f902a1)
 
+#### Overview of the Dashboard
+This dashboard provides a summarized view of sales performance and customer reviews across different categories on Amazon with a focus on;
+- Revenue Performance
+- Category distribution
+- Number of products
+- Average rating
+- Top 10 revenue generating products
+
+
+
+
 
 
 
