@@ -95,6 +95,18 @@ This bar chart breaks down revenue per category.
 4. Product deiversity is broad, but contributions are unequal with a few categories (Electronics, Computers) driving most of the business.
 5. Top selling products are tech centric, hinting at consumer preference on Amazon.
 
+### Sentiment Analysis (Selected Snippets)
+|Product|Positive Sentiment|Negative Sentiment
+|-------|------------------|-----------------|
+|Wayona Nylon Braided USB|"Charging is really fast". "Looks durable".|Minor complaints about needing replacement.
+|Fire-Boltt Watch|“Perfect for beginners”. “Premium strap”.|Screen doesn’t turn on with tap.
+|HDMI Cable|“Value for money”. “Just go for it”.|Few mentions about cable length.
+|Camel Paints|“Colour texture is great”.|Rare quality concerns.
+|Pens|“Excellent performance”.|Received only 20 pens out of 25.
+|Lenovo Charger|“Original and fast charging”.|None significant.
+
+
+
 
 
 
