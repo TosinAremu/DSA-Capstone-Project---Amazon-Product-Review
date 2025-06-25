@@ -88,6 +88,13 @@ This bar chart breaks down revenue per category.
 - Products like "vacuum cleaners" and "kitchen appliances" show potential in home related segments.
 - There is a drop in revenue after top 5 products.
 
+#### Key Takeaways
+1. Electronics is king, commanding an overwhelming majority of total revenue.
+2. Car & Motorbike has low revenue and limited product count, suggesting it's a niche or underdeveloped segmenet.
+3. Highly rated products (avg. rating of 292.75) in Car & Motorbike imply strong user engagement per product, even if revenue is low.
+4. Product deiversity is broad, but contributions are unequal with a few categories (Electronics, Computers) driving most of the business.
+5. Top selling products are tech centric, hinting at consumer preference on Amazon.
+
 
 
 
