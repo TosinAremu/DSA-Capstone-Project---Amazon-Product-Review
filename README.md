@@ -34,7 +34,7 @@ The functions used for the analysis are:
 8. IF
 9. IFERROR
 
-![Excel Dashboard](https://github.com/user-attachments/assets/f1d218ac-9a5c-403d-affd-7abf47f902a1)
+![Excel Dashboard](https://github.com/user-attachments/assets/be923a3d-a0cd-421f-99c5-571beac0e88c)
 
 #### Overview of the Dashboard
 This dashboard provides a summarized view of sales performance and customer reviews across different categories on Amazon with a focus on;
